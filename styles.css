@@ -91,7 +91,7 @@ section.howto{
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: linear-gradient(to right, rgb(201, 80, 36), rgba(233, 163, 84, 0.973));
+    background-image: linear-gradient(to right, rgb(201, 80, 36), rgba(233, 163, 84, 0.973), rgb(201, 80, 36));
     font-size: 18px;
     color: rgb(251, 235, 211);
     & img{
